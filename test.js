@@ -39,3 +39,5 @@ int main()
 print("Hello World in Python !");
 
 <!-- Python ends here -->
+
+<!-- HTML and CSS starts here -->
