@@ -32,3 +32,10 @@ int main()
 }
 
 <!-- C Language ends here -->
+
+
+<!-- Python starts here -->
+
+print("Hello World in Python !");
+
+<!-- Python ends here -->
