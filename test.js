@@ -20,3 +20,15 @@ public class main ()
 }
 
 <!-- JAVA ends here -->
+
+
+<!-- C Language Starts here -->
+
+#include <stdio.h>
+int main()
+{
+  printf("Hello World in C Programming !");
+  return 0;
+}
+
+<!-- C Language ends here -->
